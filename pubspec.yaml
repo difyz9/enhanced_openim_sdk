@@ -1,0 +1,30 @@
+name: enhanced_openim_sdk
+description: A modernized, developer-friendly wrapper around the OpenIM SDK for Flutter applications
+version: 1.0.0
+homepage: https://github.com/your-username/enhanced_openim_sdk
+repository: https://github.com/your-username/enhanced_openim_sdk
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  # This package is a pure Dart package that does not depend on Flutter.
+  # Packages that depend on Flutter should declare this as false.
+  # plugin:
+  #   platforms:
+  #     android:
+  #       package: io.openim.enhanced_sdk
+  #       pluginClass: EnhancedOpenimSdkPlugin
+  #     ios:
+  #       pluginClass: EnhancedOpenimSdkPlugin
