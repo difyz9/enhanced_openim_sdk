@@ -21,7 +21,7 @@
 dependencies:
   enhanced_openim_sdk:
     git:
-      url: https://github.com/your-username/enhanced_openim_sdk.git
+      url: https://github.com/difyz9/enhanced_openim_sdk.git
       ref: main  # 或者指定特定的标签/分支
 ```
 
